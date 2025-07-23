@@ -1,2 +1,3 @@
-# SQL-Queries
-A collection of all the sql queries i practiced from Leetcode, Hackerank, etc.
+| SL No. | Problem Name  | Platform           | Link           | Location | Revised |
+|--------------------------|--------------------------|----------------------------|-----------------------------|-----------------------------|----------|
+| 1. | xyz | xyz | xyz | xyz |xyz
