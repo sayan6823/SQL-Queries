@@ -1,3 +1,3 @@
-| SL No. | Problem Name  | Platform           | Link           | Location | Revised |
+``` | SL No. | Problem Name  | Platform           | Link           | Location | Revised | ```
 |--------------------------|--------------------------|----------------------------|-----------------------------|-----------------------------|----------|
 | 1. | xyz | xyz | xyz | xyz |xyz
