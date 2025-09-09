@@ -16,4 +16,14 @@
 | 14 | Weather Observation Station 8 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-8">Link</a> | [weatherObs8.sql](weatherObs8.sql) | ✅ |
 | 15 | Weather Observation Station 9 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-9">Link</a> | [weatherObs9.sql](weatherObs9.sql) | ✅ |
 | 16 | Weather Observation Station 10 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-10">Link</a> | [weatherObs10.sql](weatherObs10.sql) | ✅ |
-| 17 |  | Hackerrank | <a href="">Link</a> | []() | ✅ |
+| 17 | Weather Observation Station 11 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-11">Link</a> | [weatherObs11.sql](weatherObs11.sql) | ✅ |
+| 18 | Weather Observation Station 12 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-12">Link</a> | [weatherObs12.sql](weatherObs12.sql) | ✅ |
+| 19 | Weather Observation Station 13 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-13">Link</a> | [weatherObs13.sql](weatherObs13.sql) | ✅ |
+| 20 | Weather Observation Station 14 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-14">Link</a> | [weatherObs14.sql](weatherObs14.sql) | ✅ |
+| 21 | Weather Observation Station 15 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-15">Link</a> | [weatherObs15.sql](weatherObs15.sql) | ✅ |
+| 22 | Weather Observation Station 16 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-16">Link</a> | [weatherObs16.sql](weatherObs16.sql) | ✅ |
+| 23 | Weather Observation Station 17 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-17">Link</a> | [weatherObs17.sql](weatherObs17.sql) | ✅ |
+| 24 | Weather Observation Station 18 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-18">Link</a> | [weatherObs18.sql](weatherObs18.sql) | ✅ |
+| 25 | Weather Observation Station 19 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-19">Link</a> | [weatherObs19.sql](weatherObs19.sql) | ✅ |
+| 26 | Weather Observation Station 20 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-20">Link</a> | [weatherObs20.sql](weatherObs20.sql) | ✅ |
+| 27 |  | Hackerrank | <a href="">Link</a> | []() | ✅ |
