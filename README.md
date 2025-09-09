@@ -39,4 +39,7 @@
 | 37 | Population Density Difference | Hackerrank | <a href="https://www.hackerrank.com/challenges/population-density-difference">Link</a> | [populationDensityDiff.sql](populationDensityDiff.sql) | ✅ |
 | 38 | The Blunder | Hackerrank | <a href="https://www.hackerrank.com/challenges/the-blunder">Link</a> | [theBlunder.sql](theBlunder.sql) | ✅ |
 | 39 | Top Earners | Hackerrank | <a href="https://www.hackerrank.com/challenges/earnings-of-employees">Link</a> | [topEarners.sql](topEarners.sql) | ✅ |
-| 40 |  | Hackerrank | <a href="">Link</a> | []() | ✅ |
+| 40 | Population Census | Hackerrank | <a href="https://www.hackerrank.com/challenges/asian-population">Link</a> | [populationCensus.sql](populationCensus.sql) | ✅ |
+| 41 | African Cities | Hackerrank | <a href="https://www.hackerrank.com/challenges/african-cities">Link</a> | [africanCities.sql](africanCities.sql) | ✅ |
+| 42 | Average Population of Each Continent | Hackerrank | <a href="https://www.hackerrank.com/challenges/average-population-of-each-continent">Link</a> | [avgPopulationofEachContinent.sql](avgPopulationofEachContinent.sql) | ✅ |
+| 43 |  | Hackerrank | <a href="">Link</a> | []() | ✅ |
