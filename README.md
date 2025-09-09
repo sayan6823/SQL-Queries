@@ -31,5 +31,12 @@
 | 29 | Employee Salaries | Hackerrank | <a href="https://www.hackerrank.com/challenges/salary-of-employees">Link</a> | [employeeSalaries.sql](employeeSalaries.sql) | ✅ |
 | 30 | Type of Triangle | Hackerrank | <a href="https://www.hackerrank.com/challenges/what-type-of-triangle">Link</a> | [typeofTriangle.sql](typeOfTriangle.sql) | ✅ |
 | 31 | The PADS | Hackerrank | <a href="https://www.hackerrank.com/challenges/the-pads">Link</a> | [thePADS.sql](thePADS.sql) | ✅ |
-| 32 |  | Hackerrank | <a href="">Link</a> | []() | ✅ |
-| 33 |  | Hackerrank | <a href="">Link</a> | []() | ✅ |
+| 32 | Revising Aggregations - The Count Function | Hackerrank | <a href="https://www.hackerrank.com/challenges/revising-aggregations-the-count-function">Link</a> | [countFunction.sql](countFunction.sql) | ✅ |
+| 33 | Revising Aggregations - The Sum Function | Hackerrank | <a href="https://www.hackerrank.com/challenges/revising-aggregations-sum">Link</a> | [sumFunction.sql](sumFunction.sql) | ✅ |
+| 34 | Revising Aggregations - Averages | Hackerrank | <a href="https://www.hackerrank.com/challenges/revising-aggregations-the-average-function">Link</a> | [averageFunction.sql](averageFunction.sql) | ✅ |
+| 35 | Average Population | Hackerrank | <a href="https://www.hackerrank.com/challenges/average-population">Link</a> | [avgPopulation.sql](avgPopulation.sql) | ✅ |
+| 36 | Japan Population | Hackerrank | <a href="https://www.hackerrank.com/challenges/japan-population">Link</a> | [japanPopulation.sql](japanPopulation.sql) | ✅ |
+| 37 | Population Density Difference | Hackerrank | <a href="https://www.hackerrank.com/challenges/population-density-difference">Link</a> | []() | ✅ |
+| 38 | The Blunder | Hackerrank | <a href="https://www.hackerrank.com/challenges/the-blunder">Link</a> | []() | ✅ |
+| 39 | Top Earners | Hackerrank | <a href="https://www.hackerrank.com/challenges/earnings-of-employees">Link</a> | []() | ✅ |
+| 40 |  | Hackerrank | <a href="">Link</a> | []() | ✅ |
