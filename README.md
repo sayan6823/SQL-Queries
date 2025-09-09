@@ -6,3 +6,14 @@
 | 4 | Select By Id | Hackerrank | <a href="https://www.hackerrank.com/challenges/select-by-id">Link</a> | [selectById.sql](selectById.sql) | ✅ |
 | 5 | Japanese Cities' Attributes | Hackerrank | <a href="https://www.hackerrank.com/challenges/japanese-cities-attributes">Link</a> | [japaneseCityAttr.sql](japaneseCityAttr.sql) | ✅ |
 | 6 | Japanese Cities' Names | Hackerrank | <a href="https://www.hackerrank.com/challenges/japanese-cities-name">Link</a> | [japaneseCityNames.sql](japaneseCityNames.sql) | ✅ |
+| 7 | Weather Observation Station 1 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-1">Link</a> | [weatherObs1.sql](weatherObs1.sql) | ✅ |
+| 8 | Weather Observation Station 2 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-2">Link</a> | [weatherObs2.sql](weatherObs2.sql) | ✅ |
+| 9 | Weather Observation Station 3 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-3">Link</a> | [weatherObs3.sql](weatherObs3.sql) | ✅ |
+| 10 | Weather Observation Station 4 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-4">Link</a> | [weatherObs3.sql](weatherObs3.sql) | ✅ |
+| 11 | Weather Observation Station 5 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-5">Link</a> | [weatherObs5.sql](weatherObs5.sql) | ✅ |
+| 12 | Weather Observation Station 6 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-6">Link</a> | [weatherObs6.sql](weatherObs6.sql) | ✅ |
+| 13 | Weather Observation Station 7 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-7">Link</a> | [weatherObs7.sql](weatherObs7.sql) | ✅ |
+| 14 | Weather Observation Station 8 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-8">Link</a> | [weatherObs8.sql](weatherObs8.sql) | ✅ |
+| 15 | Weather Observation Station 9 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-9">Link</a> | [weatherObs9.sql](weatherObs9.sql) | ✅ |
+| 16 | Weather Observation Station 10 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-10">Link</a> | [weatherObs10.sql](weatherObs10.sql) | ✅ |
+| 17 |  | Hackerrank | <a href="">Link</a> | []() | ✅ |
