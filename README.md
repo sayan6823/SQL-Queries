@@ -26,4 +26,10 @@
 | 24 | Weather Observation Station 18 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-18">Link</a> | [weatherObs18.sql](weatherObs18.sql) | ✅ |
 | 25 | Weather Observation Station 19 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-19">Link</a> | [weatherObs19.sql](weatherObs19.sql) | ✅ |
 | 26 | Weather Observation Station 20 | Hackerrank | <a href="https://www.hackerrank.com/challenges/weather-observation-station-20">Link</a> | [weatherObs20.sql](weatherObs20.sql) | ✅ |
-| 27 |  | Hackerrank | <a href="">Link</a> | []() | ✅ |
+| 27 | Higher Than 75 Marks | Hackerrank | <a href="https://www.hackerrank.com/challenges/more-than-75-marks">Link</a> | [higherThan75.sql](higherThan75.sql) | ✅ |
+| 28 | Employee Names | Hackerrank | <a href="https://www.hackerrank.com/challenges/name-of-employees">Link</a> | [employeeNames.sql](employeeNames.sql) | ✅ |
+| 29 | Employee Salaries | Hackerrank | <a href="https://www.hackerrank.com/challenges/salary-of-employees">Link</a> | [employeeSalaries.sql](employeeSalaries.sql) | ✅ |
+| 30 | Type of Triangle | Hackerrank | <a href="https://www.hackerrank.com/challenges/what-type-of-triangle">Link</a> | [typeofTriangle.sql](typeOfTriangle.sql) | ✅ |
+| 31 | The PADS | Hackerrank | <a href="https://www.hackerrank.com/challenges/the-pads">Link</a> | [thePADS.sql](thePADS.sql) | ✅ |
+| 32 |  | Hackerrank | <a href="">Link</a> | []() | ✅ |
+| 33 |  | Hackerrank | <a href="">Link</a> | []() | ✅ |
