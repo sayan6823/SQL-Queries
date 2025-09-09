@@ -36,7 +36,7 @@
 | 34 | Revising Aggregations - Averages | Hackerrank | <a href="https://www.hackerrank.com/challenges/revising-aggregations-the-average-function">Link</a> | [averageFunction.sql](averageFunction.sql) | ✅ |
 | 35 | Average Population | Hackerrank | <a href="https://www.hackerrank.com/challenges/average-population">Link</a> | [avgPopulation.sql](avgPopulation.sql) | ✅ |
 | 36 | Japan Population | Hackerrank | <a href="https://www.hackerrank.com/challenges/japan-population">Link</a> | [japanPopulation.sql](japanPopulation.sql) | ✅ |
-| 37 | Population Density Difference | Hackerrank | <a href="https://www.hackerrank.com/challenges/population-density-difference">Link</a> | []() | ✅ |
-| 38 | The Blunder | Hackerrank | <a href="https://www.hackerrank.com/challenges/the-blunder">Link</a> | []() | ✅ |
-| 39 | Top Earners | Hackerrank | <a href="https://www.hackerrank.com/challenges/earnings-of-employees">Link</a> | []() | ✅ |
+| 37 | Population Density Difference | Hackerrank | <a href="https://www.hackerrank.com/challenges/population-density-difference">Link</a> | [populationDensityDiff.sql](populationDensityDiff.sql) | ✅ |
+| 38 | The Blunder | Hackerrank | <a href="https://www.hackerrank.com/challenges/the-blunder">Link</a> | [theBlunder.sql](theBlunder.sql) | ✅ |
+| 39 | Top Earners | Hackerrank | <a href="https://www.hackerrank.com/challenges/earnings-of-employees">Link</a> | [topEarners.sql](topEarners.sql) | ✅ |
 | 40 |  | Hackerrank | <a href="">Link</a> | []() | ✅ |
