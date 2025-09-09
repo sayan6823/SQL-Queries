@@ -1,3 +1,4 @@
 | SL No. | Problem Name  | Platform           | Link           | Location | Revised |
 |--------------------------|--------------------------|----------------------------|-----------------------------|-----------------------------|----------|
-| 1 | Revising the Select Query I | Hackerrank | <a href="https://www.hackerrank.com/challenges/revising-the-select-query">Link</a> | [SQL-Queries\selectQuery.sql] (SQL-Queries\selectQuery.sql) |✅|
+| 1 | Recyclable and Low Fat Products | Leetcode | <a href="https://leetcode.com/problems/recyclable-and-low-fat-products">Link</a> | [products.sql](products.sql) | ✅✅ |
+| 2 | Find Customer Referee | Leetcode | <a href="https://leetcode.com/problems/find-customer-referee">Link</a> | [referee.sql](referee.sql) | ✅✅ |
