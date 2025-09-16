@@ -42,4 +42,4 @@
 | 40 | Population Census | Hackerrank | <a href="https://www.hackerrank.com/challenges/asian-population">Link</a> | [populationCensus.sql](populationCensus.sql) | ✅ |
 | 41 | African Cities | Hackerrank | <a href="https://www.hackerrank.com/challenges/african-cities">Link</a> | [africanCities.sql](africanCities.sql) | ✅ |
 | 42 | Average Population of Each Continent | Hackerrank | <a href="https://www.hackerrank.com/challenges/average-population-of-each-continent">Link</a> | [avgPopulationofEachContinent.sql](avgPopulationofEachContinent.sql) | ✅ |
-| 43 |  | Hackerrank | <a href="">Link</a> | []() | ✅ |
+| 43 | Occupations | Hackerrank | <a href="https://www.hackerrank.com/challenges/occupations">Link</a> | [occupations.sql](occupations.sql) | ✅ |
