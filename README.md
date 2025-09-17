@@ -43,3 +43,4 @@
 | 41 | African Cities | Hackerrank | <a href="https://www.hackerrank.com/challenges/african-cities">Link</a> | [africanCities.sql](africanCities.sql) | ✅ |
 | 42 | Average Population of Each Continent | Hackerrank | <a href="https://www.hackerrank.com/challenges/average-population-of-each-continent">Link</a> | [avgPopulationofEachContinent.sql](avgPopulationofEachContinent.sql) | ✅ |
 | 43 | Occupations | Hackerrank | <a href="https://www.hackerrank.com/challenges/occupations">Link</a> | [occupations.sql](occupations.sql) | ✅ |
+| 44 | The Report | Hackerrank | <a href="https://www.hackerrank.com/challenges/the-report">Link</a> | [theReport.sql](theReport.sql) | ✅ |
