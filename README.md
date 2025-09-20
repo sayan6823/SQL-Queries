@@ -44,3 +44,4 @@
 | 42 | Average Population of Each Continent | Hackerrank | <a href="https://www.hackerrank.com/challenges/average-population-of-each-continent">Link</a> | [avgPopulationofEachContinent.sql](avgPopulationofEachContinent.sql) | ✅ |
 | 43 | Occupations | Hackerrank | <a href="https://www.hackerrank.com/challenges/occupations">Link</a> | [occupations.sql](occupations.sql) | ✅ |
 | 44 | The Report | Hackerrank | <a href="https://www.hackerrank.com/challenges/the-report">Link</a> | [theReport.sql](theReport.sql) | ✅ |
+| 45 | New Companies | Hackerrank | <a href="https://www.hackerrank.com/challenges/the-company">Link</a> | [newCompanies.sql](newCompanies.sql) | ✅ |
